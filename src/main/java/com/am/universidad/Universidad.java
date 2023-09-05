@@ -1,12 +1,12 @@
 
-package com.am.universidadejemplo;
+package com.am.universidad;
 
 import com.am.universidadejemplo.gui.Principal;
 import com.am.universidadejemplo.gui.AgregarAlumnos;
 
 
 
-public class UniversidadEjemplo {
+public class Universidad {
 
     public static void main(String[] args) {
         Principal principal = new Principal();
